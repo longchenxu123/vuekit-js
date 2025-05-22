@@ -1,0 +1,31 @@
+{
+  "name": "Vuekit",
+  "title": "Vuekit.js",
+  "version": "1.0.0",
+  "description": "一个轻量级简单实用的 JavaScript 工具库",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "方法库",
+    "vue",
+    "js",
+    "js库",
+    "工具库",
+    "简单",
+    "轻量级"
+  ],
+  "author": {
+    "name": "longchenxu",
+    "email": "longchenxu@126.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lcx_encryption": "^0.0.3"
+  },
+  "devDependencies": {
+    "rollup": "^2.79.2",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
